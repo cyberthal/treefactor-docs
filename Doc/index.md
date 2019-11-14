@@ -23,3 +23,5 @@ If you are learning about Treefactor for the first time, please read this site i
 This is a power tool that quickly moves text and files around the directory tree. Please learn how it works before using it in production, or you may misfile important text and files. I recommend using it with version control so that you can revert undesired changes. I use Git for text and git-annex for files.
 
 This site is up-to-date for Treefactor version 2.0.0
+
+The code for this site is hosted at [Github](https://github.com/cyberthal/treefactor-docs).

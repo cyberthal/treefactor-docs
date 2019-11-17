@@ -25,3 +25,5 @@ This is a power tool that quickly moves text and files around the directory tree
 This site is up-to-date for Treefactor version 2.0.0
 
 The code for this site is hosted at [Github](https://github.com/cyberthal/treefactor-docs).
+
+This package would not have been possible without the inspiration of [BrainStorm](http://brainstormsw.com).

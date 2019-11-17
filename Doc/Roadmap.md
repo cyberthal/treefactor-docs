@@ -56,3 +56,5 @@ Misc
 Make tro-object-text a ring
 
 If a heading refile would make a heading the child of the refiled heading, quit with an error.
+
+Future versions may add tro-prefixed functions and customizations from my [Spacemacs personal layer](https://github.com/cyberthal/spacemacs-personal).

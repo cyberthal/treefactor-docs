@@ -87,3 +87,4 @@ Doc/**/*Zinaries/
 *.html
 styles.css
 wripplebuild.sh
+Upload.sh

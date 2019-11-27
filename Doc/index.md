@@ -16,7 +16,7 @@ Therefore, Treefactor provides the user with refiling commands that cover the sm
 
 Treefactor's other commands are mostly tweaks to org-mode to support this workflow, which differs from Org's philosophy.
 
-Treefactor's goal is inductive meta-outline evolution. I use Treefactor to manage my Textmind, a 1/3 gigabyte text exobrain Git repo that can comfortably process 10k words per day. Daily intake varies between 1-20k words, usually. I read a lot, and Treefactor has no trouble keeping up. Other personal information managers always choked on the volume.
+Treefactor's goal is inductive meta-outline evolution. I use Treefactor to manage my Textmind, a 1/3 gigabyte text exobrain Git repo that can comfortably process 10k words per day. Daily intake varies between 1-20k words, usually. I read a lot, and Treefactor has no trouble keeping up. Other personal information managers always choked on the volume. Here is a [template](https://gitgud.io/Bibliodemos/textmind-template) you can use to start your own Textmind.
 
 If you are learning about Treefactor for the first time, please read this site in the order listed on the Table of Contents sidebar. Each command has at least one gif demo that will help you understand what it does.
 

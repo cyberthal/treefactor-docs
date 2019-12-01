@@ -30,3 +30,8 @@ Wondering where something you refiled went? A message appears in the minibuffer 
 Treefactor automatically saves changes to the user's text data. Give Emacs' undo history generous settings if moving lots of text.
 
 The last block of text that was refiled is saved in the variable tro-object-text until the Emacs session ends. Refiled text is not saved to the kill ring, as this interferes with user yank commands and overcrowds the kill ring.
+
+Bugs
+===
+
+Treefactor's search for "Inbox.org" or "0-Inbox/" is case sensitive. Lower case "i" will not match. Linux will simply ignore a non-match. However, MacOS doesn't distinguish case. This causes the tro-refile operation to fail with an error. No user data is altered. The solution is simply to capitalize the "i".

@@ -10,7 +10,7 @@ In traditional refiling, the item goes directly to its final destination. This i
 
 When moving things with Treefactor, you usually don't see exactly where they end up. For example, when refiling to a file, you don't see the parent heading. When refiling to an outline, you don't see the adjacent child headings. This is similar to throwing an object into a box.
 
-Imprecise refiles are handy because they require less thought. You don't need to know anything more than the information currently on the screen in order to "throw" the object in the right general direction. You doesn't need to know the exact layout of your new house in order to put stuff in the "garage" box.
+Imprecise refiles are handy because they require less thought. You don't need to know anything more than the information currently on the screen in order to "throw" the object in the right general direction. You don't need to know the exact layout of your new house in order to put stuff in the "garage" box.
 
 An accumulation of imprecise refiles eventually results in precise refiling, without the usual accompanying mental friction of one-step precise refiling. The correct meta-outline structure is discovered inductively and experimentally rather than deductively and theoretically. By becoming protean, the meta outline need only meet the priorities of the present, because it can evolve in response to future needs.
 

@@ -16,5 +16,5 @@ trs.el
 Put this in your init file: 
 
 ~~~
-(require 'tro)
+(require 'treefactor)
 ~~~

@@ -45,7 +45,7 @@ Treefactor is a power tool that quickly moves text and files around the director
 Links and version
 ---
 
-This site is up-to-date for Treefactor version 2.1.6
+This site is up-to-date for Treefactor version 3.0.1
 
 The code for this site is hosted at [Github](https://github.com/cyberthal/treefactor-docs).
 

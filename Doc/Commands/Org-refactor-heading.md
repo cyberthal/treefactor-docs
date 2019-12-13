@@ -1,6 +1,6 @@
 % org-refactor-heading
 
-tro-org-refactor-heading is a minor Org convenience function. It helps you refactor a heading.
+treefactor-org-refactor-heading is a minor Org convenience function. It helps you refactor a heading.
 
 Imagine you have a complex heading that covers multiple topics in a disorganized way.
 
@@ -8,9 +8,9 @@ You want to archive a copy of this heading to preserve its original form, then a
 
 A classic example would be a chronological record of a sprint. You want to preserve the chronological order for future reference, but you also want to break it down into tasks and categorized reference matter.
 
-tro-org-refactor-heading creates a copy of the original heading and appends " | REFACTORED" to the title. It's an historical record now. You don't need to refactor it again.
+treefactor-org-refactor-heading creates a copy of the original heading and appends " | REFACTORED" to the title. It's an historical record now. You don't need to refactor it again.
 
-Then tro-org-refactor-heading opens a new window with an indirect buffer showing an "INBOX" heading. This is where you will put the new subheadings.
+Then treefactor-org-refactor-heading opens a new window with an indirect buffer showing an "INBOX" heading. This is where you will put the new subheadings.
 
 Now you can grab chunks of the original heading in the first window, and move them to the second window. The goal is to improve the organization; it doesn't have to be perfect. You can always do another refactoring round after this.
 
@@ -18,7 +18,7 @@ To keep track of your progress, delete irrelevant text. No need to worry about l
 
 Here's a gif demo:
 
-![](Org-refactor-heading-Zinaries/trs-org-refactor-heading--jabberwocky--output-2019-09-07-02.gif "tro-org-refactor-heading Jabberwocky demo")
+![](Org-refactor-heading-Zinaries/trs-org-refactor-heading--jabberwocky--output-2019-09-07-02.gif "treefactor-org-refactor-heading Jabberwocky demo")
 
 The gif example heading was very simple. Anybody can break a poem into stanzas without the help of a special function. But we all have complex textwalls in our lives that beg for analysis. This function reduces the friction of doing so, encouraging the user to regularly analyze his complex headings into manageable form.
 

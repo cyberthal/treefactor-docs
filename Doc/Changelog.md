@@ -1,5 +1,12 @@
 % Changelog
 
+3.0.0
+==
+
+Backwards-compatibility-breaking namespace changes. 
+Comply with MELPA requirements.
+Bugfixes.
+
 2.0.0
 ==
 

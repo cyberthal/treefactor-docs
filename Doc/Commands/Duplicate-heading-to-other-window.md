@@ -1,6 +1,6 @@
 % org-duplicate-heading-to-other-window
 
-tro-org-duplicate-heading-to-other-window is a minor convenience function for outlines. It copies a heading to the bottom of the buffer in the next window.
+treefactor-org-duplicate-heading-to-other-window is a minor convenience function for outlines. It copies a heading to the bottom of the buffer in the next window.
 
 Here's a gif demo:
 

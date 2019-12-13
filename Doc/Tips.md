@@ -5,7 +5,7 @@ Org
 
 Use org-id for global link UIDs that are not path-dependent.
 
-Treefactor facilitates creating many org files in deeply nested directories. This can make it challenging to construct an org-agenda files list. See here to load org agenda files recursively: [Recursively adding .org files in a top-level directory for org-agenda-files takes a long time - StackOverflow](https://stackoverflow.com/questions/17215868/recursively-adding-org-files-in-a-top-level-directory-for-org-agenda-files-take)
+Treefactor facilitates creating many Org files in deeply nested directories. This can make it challenging to construct an org-agenda files list. See here to load org agenda files recursively: [Recursively adding .org files in a top-level directory for org-agenda-files takes a long time - StackOverflow](https://stackoverflow.com/questions/17215868/recursively-adding-org-files-in-a-top-level-directory-for-org-agenda-files-take)
 
 It also helps to have a function that refreshes your org agenda file list, if you've altered paths in that directory.
 
@@ -24,4 +24,4 @@ Spacemacs is the best way for beginners to learn Emacs, as it provides powerful 
 Inductive sorting
 ===
 
-Treefactor filing is fast. Think with your fingers, not your brain. You can always redo it later. It is often better to do it wrong and learn something than to sit there spinning your gears. Handling the headings improves your grasp of the subject.
+Treefactor filing is fast. Think with your fingers, not your brain. You can always redo it later. It is often better to do it wrong and learn something than to sit there spinning your wheels. Handling the headings improves your grasp of the subject.
